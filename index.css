@@ -7,6 +7,16 @@ body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
+html {
+    min-height: 100%;
+}
+
+.footer2 {
+    position: fixed; 
+    bottom: 0;  
+    margin-left:70px; 
+}
+
 a{
     text-decoration: none;
 }
